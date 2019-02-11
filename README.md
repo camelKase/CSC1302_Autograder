@@ -1,7 +1,6 @@
-#Autograder for CS1302
+# Autograder for CS1302
 
-download and place each students' homework submission into the repo
-run grade.sh
-Each students' name will be printed to the terminal with their test results underneath their name.
-
-
+### Use
+Place each students' folder submission into the repository <br>
+Run the grading shell script: ```./grade.sh ```<br>
+The console will output each students' name and the test results <br>
